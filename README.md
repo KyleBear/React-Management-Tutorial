@@ -1,3 +1,5 @@
+## management system
+리액트 기반 고객관리 시스템.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
